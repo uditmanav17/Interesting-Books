@@ -5,7 +5,7 @@
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition?query=deep%20learn)
 * [Python One-Liners: Write Concise, Eloquent Python Like a Professional](https://www.amazon.in/Python-One-Liners-Concise-Eloquent-Professional-ebook/dp/B07ZY7XMX8)
-
+* [The Pragmatic Programmer Your Journey to Mastery](https://www.amazon.in/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
 ## In progress...
 * [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition)
