@@ -10,6 +10,7 @@
 ## In progress...
 * [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition)
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
+* [Data Structures and Algorithms in Python](https://www.wiley.com/en-in/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 * [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action?query=Natu)
 
 
