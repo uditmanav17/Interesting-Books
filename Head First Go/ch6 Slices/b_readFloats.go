@@ -9,7 +9,7 @@ import (
 
 func main() {
 	filePath := "./data.txt"
-	numbers, err := datafile.GetFloats(filePath)
+	numbers, err := datafile.GetFloats2(filePath)
 	if err != nil {
 		log.Fatal(err)
 	}
