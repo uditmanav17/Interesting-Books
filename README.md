@@ -12,7 +12,7 @@
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 * [Data Structures and Algorithms in Python](https://www.wiley.com/en-in/Data+Structures+and+Algorithms+in+Python-p-9781118290279)
 * [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action?query=Natu)
-
+* [Head First Go](https://www.oreilly.com/library/view/head-first-go/9781491969540/)
 
 ## Plan to...
 * [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems?query=deep%20learn)
