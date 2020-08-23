@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/headfirstgo/datafile" // This will blow up, if file contains more than 3 lines
+	"github.com/headfirstgo/datafile"
 )
 
 func main() {
