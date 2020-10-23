@@ -16,6 +16,9 @@
 * [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects)
 
 ## Plan to...
+* [Practical Statistics for Data Scientists](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+* [Machine Learning Pocket Reference](https://www.oreilly.com/library/view/machine-learning-pocket/9781492047537/)
+* [Building Machine Learning Pipelines](https://www.oreilly.com/library/view/building-machine-learning/9781492053187/)
 * [Deep Learning for Vision Systems](https://www.manning.com/books/deep-learning-for-vision-systems?query=deep%20learn)
 * [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data?query=deep%20learn)
 * [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action)
